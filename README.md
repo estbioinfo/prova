@@ -1,2 +1,2 @@
-# prova
-ES un repositori de prova
+# Prova
+Aquest es un repositori de prova
